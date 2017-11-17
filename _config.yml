@@ -3,8 +3,8 @@ title: FangYiHan
 SEOTitle: 方译涵 | FangYiHan
 header-img: img/home-bg.jpg
 email: huxpro@gmail.com
-description: "关于前端与设计、黑客与画家 | 方译涵，Web & Mobile Lover，Software Engineer，UX Designer | 这里是 @Hux方译涵 的个人博客，与你一起发现更大的世界。"
-keyword: "方译涵, Hux方译涵, Hux, 鬼栈, huxpro, @huxpro, 方译涵的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
+description: "关于互联网、大数据 | 方译涵，Web & Mobile，Software，Designer | 这里是 @方译涵 的个人博客，与你一起发现更大的世界。"
+keyword: "方译涵, 互联网, 大数据, 方译涵的博客, fangyihan Blog, 博客, 互联网, Web, python, 软件, 人工智能"
 url: "http://www.fangyihan.cn"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -12,11 +12,11 @@ baseurl: ""                             # for example, '/blog' if your blog host
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
-twitter_username:   huxpro
-#facebook_username:  huxpro
+weibo_username:     ""
+zhihu_username:     ""
+github_username:    ""
+twitter_username:   ""
+#facebook_username:  ""
 # linkedin_username:  firstname-lastname-idxxxx
 
 
@@ -67,7 +67,7 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "写写代码，做做设计，<br>离开世界之前，一切都是过程"
+sidebar-about-description: "互联网，大数据<br>代码数据旅行者，人工智能AI"
 sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -87,37 +87,37 @@ service-worker: true
 # Friends
 friends: [
     {
-    #     title: "Su",
+    #     title: "SU",
     #     href: "http://su.gallery/"
     # },{
-        title: "乱序",
+        title: "MIDA",
         href: "http://mida.re/"
     },{
-        title: "前端外刊评论",
+        title: "QURU",
         href: "http://qianduan.guru/"
     },{
-        title: "天镶的博客",
+        title: "WANGQ",
         href: "http://lingyu.wang/"
     },{
-        title: "Luke 的自留地",
+        title: "LUKE",
         href: "http://hmqk1995.github.io"
     },{
-        title: "Ebn's Blog",
+        title: "EbnS",
         href: "http://ebnbin.com/"
     },{
-        title: "SmdCn's Blog",
+        title: "SmdCn",
         href: "http://blog.smdcn.net"
     },{
-        title: "解旻的博客",
+        title: "XIEMS",
         href: "http://xieminis.me/"
     },{
-        title: "DHong Say",
+        title: "DHong",
         href: "http://dhong.co"
     },{
-        title: "尹峰以为",
+        title: "INQF",
         href: "http://ingf.github.io/"
     },{
-        title: "前端神盾局",
+        title: "SDP",
         href: "http://wepiaofei.github.io/blog/"
     }
 ]
