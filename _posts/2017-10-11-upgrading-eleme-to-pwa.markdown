@@ -2,7 +2,7 @@
 layout:       post
 title:        "Eleme PWA 升级实践"
 subtitle:     "Upgrading Ele.me to Progressive Web App"
-date:         2017-11-17 12:00:00
+date:         2017-10-11 12:00:00
 author:       "FRANK"
 header-img:   "img/in-post/post-eleme-pwa/eleme-at-io.jpg"
 header-mask:  0.3

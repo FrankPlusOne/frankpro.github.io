@@ -2,7 +2,7 @@
 layout:     post
 title:      "JavaScript Module Loader"
 subtitle:   "CommonJS，RequireJS，SeaJS笔记"
-date:       2017-05-25
+date:       2017-05-22
 author:     "FANGYIHAN"
 header-img: "img/post-bg-js-module.jpg"
 catalog: true

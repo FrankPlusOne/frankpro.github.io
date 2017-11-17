@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "Hello bolg"
-subtitle:   "Hello World, Hello Blog
+title:      "today is a big day"
+subtitle:   "Hello now a day "
 date:       2017-11-17 12:00:00
 author:     "FANGYIHAN"
 header-img: "img/post-bg-alitrip.jpg"

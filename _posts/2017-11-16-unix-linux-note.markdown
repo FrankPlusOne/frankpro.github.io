@@ -2,7 +2,7 @@
 layout:     post
 title:      "Unix/Linux"
 subtitle:   "Unix OS，配合着 x86 成为当时最受欢迎的 Unix 发行版"
-date:       2017-11-16 
+date:       2017-11-16 12:00:00
 author:     "FANGYIHAN"
 header-img: "img/post-bg-unix-linux.jpg"
 catalog: true

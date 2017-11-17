@@ -3,7 +3,7 @@ layout:     keynote
 title:      "Service Worker 101「GDG DevFest」"
 subtitle:   "Slides: Service Worker 101, Working Offline and Instant Loading (GDG DevFest 2016 Beijing)"
 navcolor:   "invert"
-date:       2017-11-15
+date:       2017-11-15 12:00:00
 author:     "FANGYIHAN"
 tags:
     - PWA
