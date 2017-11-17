@@ -5,6 +5,8 @@ subtitle:   "Slides: Service Worker 101, Working Offline and Instant Loading (GD
 navcolor:   "invert"
 date:       2017-11-15 12:00:00
 author:     "FANGYIHAN"
+header-img: "img/post-bg-unix-linux.jpg"
+catalog: true
 tags:
     - PWA
     - Service Worker
