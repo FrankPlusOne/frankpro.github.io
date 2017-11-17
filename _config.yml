@@ -84,40 +84,40 @@ service-worker: true
 
 
 
-# Friends
-friends: [
+# Links
+Links: [
     {
     #     title: "SU",
     #     href: "http://su.gallery/"
     # },{
-        title: "MIDA",
-        href: "http://mida.re/"
+        title: "CSDN",
+        href: "https://www.csdn.net/"
     },{
         title: "QURU",
-        href: "http://qianduan.guru/"
+        href: ""
     },{
         title: "WANGQ",
-        href: "http://lingyu.wang/"
+        href: ""
     },{
         title: "LUKE",
-        href: "http://hmqk1995.github.io"
+        href: ""
     },{
         title: "EbnS",
-        href: "http://ebnbin.com/"
+        href: ""
     },{
         title: "SmdCn",
-        href: "http://blog.smdcn.net"
+        href: ""
     },{
         title: "XIEMS",
-        href: "http://xieminis.me/"
+        href: ""
     },{
         title: "DHong",
-        href: "http://dhong.co"
+        href: ""
     },{
         title: "INQF",
-        href: "http://ingf.github.io/"
+        href: ""
     },{
         title: "SDP",
-        href: "http://wepiaofei.github.io/blog/"
+        href: ""
     }
 ]
