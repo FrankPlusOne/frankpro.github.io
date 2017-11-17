@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      "Unix/Linux 扫盲笔记"
+title:      "Unix/Linux"
 subtitle:   "不适合人类阅读，非常水的自我笔记"
-date:       2015-04-14 
-author:     "Hux"
+date:       2017-04-14 
+author:     "FANGYIHAN"
 header-img: "img/post-bg-unix-linux.jpg"
 catalog: true
 tags:

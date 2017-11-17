@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      "「知乎」如何看待微信屏蔽快的打车事件？"
+title:      "如何看待微信屏蔽快的打车事件？"
 subtitle:   "恰有小感。"
-date:       2014-12-13
-author:     "Hux"
+date:       2017-12-13
+author:     "FANGYIHAN"
 header-img: "img/post-bg-kuaidi.jpg"
 tags:
     - 知乎
