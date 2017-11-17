@@ -1,13 +1,11 @@
 ---
 layout:     keynote
-title:      "Service Worker 101「GDG DevFest 2016 北京」"
+title:      "Service Worker 101「GDG DevFest」"
 subtitle:   "Slides: Service Worker 101, Working Offline and Instant Loading (GDG DevFest 2016 Beijing)"
-iframe:     "//huangxuan.me/sw-101-gdgdf/"
 navcolor:   "invert"
-date:       2017-11-20
+date:       2017-11-22
 author:     "FANGYIHAN"
 tags:
-    - JavaScript
     - PWA
     - Service Worker
 ---
@@ -18,7 +16,6 @@ tags:
 
 TLDR; It covers lots of cool stuff about Service Worker!
 
-### [Watching Fullscreen → ](https://huangxuan.me/sw-101-gdgdf/)
 
 <div class="visible-md visible-lg">
     <img src="//huangxuan.me/sw-101-gdgdf/attach/qrcode.png" width="350" />
@@ -26,8 +23,6 @@ TLDR; It covers lots of cool stuff about Service Worker!
 </div>
 
 
-
-### [Demo Code → ](https://github.com/Huxpro/sw-101-gdgdf)
 
 - Hello World of Service Worker
 - Make your own Offline Dinosaurs

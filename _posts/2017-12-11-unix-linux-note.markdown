@@ -1,13 +1,12 @@
 ---
 layout:     post
 title:      "Unix/Linux"
-subtitle:   "不适合人类阅读，非常水的自我笔记"
-date:       2017-04-14 
+subtitle:   "Unix OS，配合着 x86 成为当时最受欢迎的 Unix 发行版"
+date:       2017-12-11 
 author:     "FANGYIHAN"
 header-img: "img/post-bg-unix-linux.jpg"
 catalog: true
 tags:
-    - OS
     - Unix
     - Linux
 ---

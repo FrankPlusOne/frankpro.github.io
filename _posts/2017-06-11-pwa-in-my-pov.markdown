@@ -2,9 +2,8 @@
 layout:     keynote
 title:      "Progressive Web App 之我见"
 subtitle:   "Slides: Progressive Web App, in my points of view"
-iframe:     "//huangxuan.me/pwa-in-my-pov/"
 navcolor:   "invert"
-date:       2017-06-05
+date:       2017-06-11
 author:     "FANGYIHAN"
 tags:
     - 前端开发
@@ -15,10 +14,9 @@ tags:
 
 > 下滑这里查看更多内容
 
-### [Watching Fullscreen →](https://huangxuan.me/pwa-in-my-pov/)
 
 <div class="visible-md visible-lg">
-    <img src="//huangxuan.me/pwa-in-my-pov/attach/qrcode.png" width="350" />
+
     <small class="img-hint">Scanning on mobile</small>
 </div>
 
@@ -36,5 +34,3 @@ tags:
 - PROS in my pov
 - Why Web? 
 
-
-### Power by [Yanshuo.io（演说.io）](https://yanshuo.io)

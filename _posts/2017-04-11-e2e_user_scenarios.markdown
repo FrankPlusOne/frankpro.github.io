@@ -2,12 +2,11 @@
 layout:     post
 title:      "Definition of End to End User Scenarios"
 subtitle:   "Paper wrote on my birthday"
-date:       2017-03-31 
+date:       2017-04-11 
 author:     "FANGYIHAN"
 header-img: "img/post-bg-e2e-ux.jpg"
 tags:
     - 交互设计
-    - English-only
     - UX Design
 ---
 

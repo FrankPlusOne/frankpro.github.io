@@ -2,18 +2,15 @@
 layout:     post
 title:      "Apple 春季发布会？"
 subtitle:   "聊聊科技与新式奢侈品"
-date:       2017-03-10 12:00:00
+date:       2017-03-11 12:00:00
 author:     "FANGYIHAN"
 header-img: "img/post-bg-apple-event-2015.jpg"
 tags:
     - 知乎
-    - 职业病
     - Apple
     - Macbook
     - Apple Watch
 ---
-
-> 这篇文章转载自[我在知乎上的回答](http://www.zhihu.com/question/28617408/answer/41626694)
 
 
 <div>

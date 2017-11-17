@@ -2,7 +2,7 @@
 layout:     post
 title:      "NextG Web 应用模型 —— Progressive Web App"
 subtitle:   "The Next Generation Application Model For The Web - Progressive Web App"
-date:       2017-11-09 12:00:00
+date:       2017-02-22 12:00:00
 author:     "FANGYIHAN"
 header-img: "img/post-bg-nextgen-web-pwa.jpg"
 header-mask: 0.3
@@ -11,10 +11,6 @@ tags:
     - DEV
     - WEBAPP
 ---
-
-
-> 今年 9 月份的时候，《程序员》杂志社就邀请我写一篇关于 PWA 的文章。后来花式拖稿，拖过了 10 月的 QCon，11 月的 GDG DevFest，终于在 12 月把这篇长文熬了出来。几次分享的不成熟，这次的结构算是比较满意了。「 可能是目前中文世界里对 PWA 最全面详细的长文了」，希望你能喜欢。<br><br>
-> 本文首发于 [CSDN](http://geek.csdn.net/news/detail/135595) 与《程序员》2017 年 2 月刊，同步发布于 [Hux Blog](https://huangxuan.me)、[前端外刊评论 - 知乎专栏](https://zhuanlan.zhihu.com/FrontendMagazine)，转载请保留链接 ;)
 
 
 ## 下一代 Web 应用？
@@ -353,17 +349,6 @@ PWA 作为一个涵盖性术语，与过往的这些或多或少通过私有平�
 - 国内 webview 环境较为复杂（比如微信），黑科技比较多。
 
 反观印度，由于 Google 服务健全、标配 Chrome 的 Android 手机市占率非常高，PWA 的用户达到率简直直逼 100%，也难免获得无数好评与支持了。**笔者奢望着本文能对推动 PWA 的国内环境有一定的贡献。**不过无论如何，PWA 在国内的春天可能的确会来得稍微晚一点了。
-
-
-## 结语
-
-「[我们信仰 Web，不仅仅在于软件、软件平台与单纯的技术][q97]，还在于[『任何人，在任何时间任何地点，都可以在万维网上发布任何信息，并被世界上的任何一个人所访问到。』而这才是 web 的最为革命之处，堪称我们人类，作为一个物种的一次进化。][27]」
-
-请不要让 web 再[继续离我们远去][49]，浏览器厂商们已经重新走到了一起，而下一棒将是交到我们 web 应用开发者的手上。[乔布斯曾相信 web 应用才移动应用的未来][50]，那就让我们用代码证明给这个世界看吧。
-
-**让我们的用户，也像我们这般热爱 web 吧。**
-
-黄玄，于 12 月的北京。
 
 ---
 
