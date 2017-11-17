@@ -2,7 +2,7 @@
 layout:     post
 title:      "Hello bolg"
 subtitle:   "Hello World, Hello Blog
-date:       2017-12-12 12:00:00
+date:       2017-11-17 12:00:00
 author:     "FANGYIHAN"
 header-img: "img/post-bg-alitrip.jpg"
 catalog: true
